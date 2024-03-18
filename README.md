@@ -1,6 +1,8 @@
 👋 Hello, I'm Galaad, a passionate tech enthusiast from France with a focus on Python and JavaScript.
 
-I love building innovative solutions that make a positive impact. Currently diving into Python programmation, exploring the endless possibilities these technologies offer. 
+I love building innovative solutions that make a positive impact. 
+
+Currently diving into Python programming, exploring the endless possibilities these technologies offer. 
 
 Open to collaborations and always eager to learn. Let's connect and code together!
 
